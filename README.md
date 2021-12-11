@@ -1,2 +1,2 @@
 # Linguagem-C
-![](img/int main.png)
+![](img/intmain.png)
