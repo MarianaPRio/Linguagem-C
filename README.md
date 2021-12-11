@@ -1,2 +1,2 @@
-#Linguage-C
+# Linguagem-C
 ![](img/intmain.png)
