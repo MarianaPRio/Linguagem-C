@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include "forca.h"
-
+// ola
 char palavrasecreta[TAMANHO_PALAVRA];
 char chutes[26];
 int chutesdados = 0;
